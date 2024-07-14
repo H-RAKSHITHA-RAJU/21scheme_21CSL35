@@ -40,3 +40,14 @@ of the file in bytes</li>
   <li>Develop an applet that displays a simple message in center of the screen.
 Develop a simple calculator using Swings.</li>
 </ol>
+<br>PART B – Practical Based Learning<br>
+<ol>
+  <li>Calculation of Simple Interest,</li>
+   <li>Check whether the given number is even or odd</li>
+   <li>Convert string case</li>
+   <li>Check for palindrome</li>
+   <li>check for prime number</li>
+   <li>check for perfect square</li>
+  <li>Development of linear search algorithm</li>
+</ol>
+
